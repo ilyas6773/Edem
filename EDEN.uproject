@@ -18,6 +18,10 @@
 		{
 			"Name": "AnimationLocomotionLibrary",
 			"Enabled": true
+		},
+		{
+			"Name": "NiagaraFluids",
+			"Enabled": true
 		}
 	]
 }
