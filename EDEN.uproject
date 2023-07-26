@@ -12,19 +12,11 @@
 			]
 		},
 		{
-			"Name": "Water",
-			"Enabled": true
-		},
-		{
 			"Name": "AnimationLocomotionLibrary",
 			"Enabled": true
 		},
 		{
 			"Name": "NiagaraFluids",
-			"Enabled": true
-		},
-		{
-			"Name": "WaterExtras",
 			"Enabled": true
 		}
 	]
