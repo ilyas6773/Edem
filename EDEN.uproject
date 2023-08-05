@@ -16,8 +16,20 @@
 			"Enabled": true
 		},
 		{
-			"Name": "NiagaraFluids",
-			"Enabled": true
+			"Name": "ChaosNiagara",
+			"Enabled": false
+		},
+		{
+			"Name": "AlembicImporter",
+			"Enabled": false
+		},
+		{
+			"Name": "GeometryCache",
+			"Enabled": false
+		},
+		{
+			"Name": "Niagara",
+			"Enabled": false
 		}
 	]
 }
